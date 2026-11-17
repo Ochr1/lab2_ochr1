@@ -1,4 +1,4 @@
-# Lab 2: ALU Transcript Generator
+# Lab 2: ALU Transcript Generator 
 
 A Python application and a Bash script that evaluate a student's grades and archive the grade data.
 
