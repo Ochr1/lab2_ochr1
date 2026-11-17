@@ -4,7 +4,7 @@ import os
 
 PASS_MARK = 50
 FORMATIVE = "Formative"
-SUMMATIVE = "Summative" 
+SUMMATIVE = "Summative"  
 
 
 def load_csv_data():
